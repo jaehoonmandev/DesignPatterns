@@ -10,7 +10,7 @@
 - 인스턴스에 접근하기 쉬워진다.
 - 인스턴스를 제어할 수 있다.
 
-![Untitled](Singleton_classDiagram.png)
+![Untitled](Singleton_classDiagram.png)  
 Singleton pattern의 class diagram(https://en.wikipedia.org/wiki/Singleton_pattern)
 
 # 일반적인 사용
